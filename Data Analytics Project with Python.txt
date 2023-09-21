@@ -1,0 +1,9 @@
+Data Analytics Project with Python 
+
+My interest --> Dataset from the world bank.
+Indicator --> Inflation, consumer prices (annual %)
+
+Data cleaning -> don't need indicator code since we are focusing on one economic indicator
+Years -> data available from 1960 to make it easier lets focus on 1998 - 2022 (last 25 years)
+
+Datasets source : (https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?view=chart)
